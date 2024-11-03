@@ -1,2 +1,2 @@
 # welcome!
-go to https://whatbeato.uj
+go to https://whatbeato.uk
